@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.env
+.env.*
+
+# Byte-compiled / optimized / DLL files
+*.pyc
+
+# VSCode / IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Local data
+uploads/
+instance/
+
+# Pytest / coverage
+.pytest_cache/
+.coverage
+htmlcov/ 
